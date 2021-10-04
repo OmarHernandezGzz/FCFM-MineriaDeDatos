@@ -18,4 +18,6 @@
 
 [Preguntas de técnica por equipo](https://github.com/AdrianaTrejo/Mineria-de-Datos/blob/main/Preguntas_MaquinadeSoporteVectorial_Equipo7.pdf)
 
+[Visualización](https://github.com/AdrianaTrejo/Mineria-de-Datos/blob/main/Visualizacion_Equipo7.ipynb)
+
 
