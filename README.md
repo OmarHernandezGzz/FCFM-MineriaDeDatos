@@ -22,5 +22,6 @@
 
 [Segunda entrega del PIA](https://github.com/AdrianaTrejo/Mineria-de-Datos/blob/main/AvancePIA_II_Grupo_01_Equipo7.ipynb)
 
+[Notebook Final](https://github.com/aaron-v-kane/FCFM/blob/main/Notebook_Final_Grupo_01_Equipo7.ipynb)
 
 
